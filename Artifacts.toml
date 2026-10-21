@@ -1,0 +1,10 @@
+[[PTI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3d6b6d8296642b09a7468221d5371694d8543590"
+libc = "glibc"
+os = "linux"
+
+    [[PTI.download]]
+    sha256 = "c882ef85a4ba01af7b34e7f8e098fc560af451d186cfd0bc9fcd54144dfc7e16"
+    url = "https://github.com/JuliaBinaryWrappers/PTI_jll.jl/releases/download/PTI-v1.2.0+0/PTI.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
